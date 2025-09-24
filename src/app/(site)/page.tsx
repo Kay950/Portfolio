@@ -63,9 +63,9 @@ export default function Home() {
         transition={{ duration: 1 }}
       >
 
-        <h1 className="text-4xl sm:text-5xl font-extrabold mb-4 text-center">WELCOME TO <a className="text-sky-500">LOCKMAN'S </a> PORTFOLIO</h1>
+        <h1 className="text-4xl sm:text-5xl font-extrabold mb-4 text-center">WELCOME TO <a className="text-sky-500">LOCKMANS </a> PORTFOLIO</h1>
         <p className="text-white text-center mb-8">
-          I'm a Full Stack Developer specializing in creating dynamic and responsive web applications. Experienced in <a className="text-sky-500">HTML, CSS, JavaScprit, Next.js</a> and <a className="text-sky-500">Tailwind CSS</a>.
+          Im a Full Stack Developer specializing in creating dynamic and responsive web applications. Experienced in <a className="text-sky-500">HTML, CSS, JavaScprit, Next.js</a> and <a className="text-sky-500">Tailwind CSS</a>.
         </p>
         
       </motion.section>
