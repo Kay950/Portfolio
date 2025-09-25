@@ -9,7 +9,7 @@ import { useState } from "react";
 
 export default function ContactPage() {
 
-  const onSubmit = async (event) => {
+  const onSubmit = async (event: any) => {
     event.preventDefault();
     const formData = new FormData(event.target);
 
